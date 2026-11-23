@@ -1,0 +1,13 @@
+# Local database (created automatically on first run)
+election.db
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Local virtual environment
+.venv/
+venv/
+
+# Offline installer folder (see README)
+wheels/
